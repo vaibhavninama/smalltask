@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    border-right: 2px;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
